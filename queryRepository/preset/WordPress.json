@@ -1,0 +1,1 @@
+["queries/PHP/PHP_High_Risk/Remote_File_Inclusion","queries/PHP/PHP_High_Risk/File_Inclusion","queries/PHP/PHP_High_Risk/Reflected_XSS_All_Clients","queries/PHP/PHP_High_Risk/SQL_Injection","queries/PHP/PHP_Medium_Threat/Path_Traversal","queries/PHP/PHP_Medium_Threat/XSRF"]
